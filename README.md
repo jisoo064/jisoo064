@@ -1,4 +1,4 @@
-<h2 align = 'center'>JISOO KWON<br><br>
+<h2 align = 'center'>JiSoo Kwon<br><br>
  
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=000000"/>
