@@ -1,6 +1,6 @@
 <h2 align = 'center'>JiSoo Kwon<br><br>
  
-<h3 align = 'center'>Studying</h3>
+<h3 align = 'center'>Studying<br><br>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=000000"/>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=000000"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=000000"/><br><br>
